@@ -3,8 +3,8 @@
 @section('content')
     <div class="row">
         <div class="col-md-8 col-md-offset-2">
-            <h1 class="text-center" style="color: white">E-Exam</h1>
-            <h3 class="text-center" style="color: white">Miskolc University</h3>
+            <h1 class="text-center" style="color: white">Online Examination System</h1>
+            <h3 class="text-center" style="color: white">Carlos Hilado Memorial State University</h3>
             <br />
             <div class="panel panel-default">
                 <div class="panel-heading">Login</div>
